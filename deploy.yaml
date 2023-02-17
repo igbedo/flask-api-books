@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: flaskbookapi
-        image: igbedo/flaskbookapi:1.0
+        image: igbedo/flaskbookapi:demo
         ports:
         - containerPort: 5000
